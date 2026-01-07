@@ -1,6 +1,6 @@
 ### Hey, I'm Adisesh! 👋
 
-I'm a developer focused on [Insert your specialty, e.g., AI Agents and LLMs].
+I'm a developer.
 
 #### Check out some of my projects:
 
