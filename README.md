@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hey, I'm Adisesh! 👋
 
-<!--
-**adiseshvsanklapur/adiseshvsanklapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on [Insert your specialty, e.g., AI Agents and LLMs].
 
-Here are some ideas to get you started:
+#### Check out some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/adiseshvsanklapur/financial-agents">
+  <img src="./financial-agents-preview.png" width="49%"/>
+</a>
+<a href="https://github.com/adiseshvsanklapur/LLM-Inspector">
+  <img src="./llm-inspector-preview.png" width="49%"/>
+</a>
+</div>
