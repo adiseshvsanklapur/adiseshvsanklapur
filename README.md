@@ -1,7 +1,8 @@
-# Adisesh V Sanklapur
+# Adisesh Venkatesh Sanklapur
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -10,7 +11,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
 
@@ -24,20 +25,21 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adiseshvsanklapur&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=888" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiseshvsanklapur&layout=compact&theme=transparent&hide_border=true&title_color=3178C6&text_color=888" alt="Top Languages" />
+  <a href="https://github.com/adiseshvsanklapur">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adiseshvsanklapur&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/adiseshvs">
+  <a href="https://linkedin.com/in/adivsanklapur">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:adiseshv@example.com">
+  <a href="mailto:adivsanklapur@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
