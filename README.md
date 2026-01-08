@@ -1,7 +1,7 @@
 # Adisesh Venkatesh Sanklapur
 
 <p align="center">
-  <b>Computer Science student building at the intersection of high-performance systems and artificial intelligence.</b><br>
+  Computer Science student at UC Davis building at the intersection of high-performance systems and artificial intelligence. <br/>
   Passionate about solving complex problems through efficient, scalable code.
 </p>
 
