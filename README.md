@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -11,7 +11,7 @@
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 <div align="center">
 
@@ -25,7 +25,22 @@
 
 ---
 
-### GitHub Analytics
+### 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/adiseshvsanklapur">
+    <img src="https://github-profile-trophy.vercel.app/?username=adiseshvsanklapur&theme=onedark&column=7&margin-w=15&no-bg=true" alt="Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adiseshvsanklapur">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adiseshvsanklapur&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/adiseshvsanklapur">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiseshvsanklapur&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=ffffff" alt="Top Languages" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/adiseshvsanklapur">
