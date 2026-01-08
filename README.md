@@ -31,6 +31,7 @@
 ---
 
 <p align="center">
+  <b>Connect with me</b><br>
   <a href="https://linkedin.com/in/adivsanklapur">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
