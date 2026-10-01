@@ -73,15 +73,13 @@
 
 ### Experience
 
-- **Shopify** — Software Engineering Intern, search index serving *(Sep 2026 – now)*
-- **ARMS Lab, UC Davis** — AI Systems Researcher: tolerance queries cut from multi-second LLM calls to sub-40 ms *(Mar 2026 – now)*
-- **Pinpoint, Codelab Davis** — real-time lost-and-found platform shipped to 500+ UC Davis students
-- **Arcadia** (robotics startup) — −40% fleet navigation error with a C++ ROS Kalman fusion pipeline
+- **Shopify**: Software Engineering Intern, search index serving
+- **ARMS Lab, UC Davis**: AI Systems Researcher
+- **Pinpoint, Codelab Davis**: Software Developer
+- **Arcadia**: Software Engineering Intern, robotics
 
 ### Toolkit
 
 **Languages** &nbsp;C++17/20 · Python · SQL · TypeScript · Go · Java · C#<br/>
 **Systems & ML** &nbsp;vLLM · PyTorch · LoRA/PEFT · MLX · FastAPI · PostgreSQL · Redis · Kafka<br/>
 **Infra** &nbsp;Docker · Kubernetes · AWS · GCP · Linux · CI/CD
-
-<sub>Also here: <a href="https://github.com/adiseshvsanklapur/ai-slides-generator">AI Slides Generator</a> · <a href="https://github.com/adiseshvsanklapur/financial-agents">Agentic Stock Insight</a> · <a href="https://github.com/adiseshvsanklapur/PhotoEditor">Photo Editor</a> · <a href="https://github.com/adiseshvsanklapur/portfolio">this portfolio’s source</a></sub>
