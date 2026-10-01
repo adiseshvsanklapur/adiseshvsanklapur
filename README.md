@@ -8,8 +8,7 @@
 <p align="center">
   <a href="https://adivsanklapur.netlify.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/adivsanklapur/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:adivenkatesh@ucdavis.edu"><b>Email</b></a> &nbsp;·&nbsp;
-  <a href="https://genaicreativity.org/icml2026/files/67/67_paper.pdf"><b>ICML 2026 paper</b></a>
+  <a href="mailto:adivenkatesh@ucdavis.edu"><b>Email</b></a>
 </p>
 
 ### Featured work
